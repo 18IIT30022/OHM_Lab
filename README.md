@@ -2,9 +2,7 @@
 OHM_Lab
 
 1.Simulated Annealing
-
 Activity 1: z = 500-20*x1-26*x2-4*x1*x2+4*x1^2+3*x2^2; -2≤x1≤10; -1≤x2≤11
-
 Activity 1.1: Understanding the attached code [We will do during the lab session]
 Activity 1.2: Code provided to you is jumbled up and some counters are not updated you need to update the counters and make the flow of the code correct so that it produces results. 
 Activity 1.3: You need to run the code for different parameters values and understand the effect of the parameters: 
