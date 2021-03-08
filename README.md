@@ -2,6 +2,7 @@
 OHM_Lab
 
 1.Simulated Annealing
+
 Activity 1: z = 500-20*x1-26*x2-4*x1*x2+4*x1^2+3*x2^2; -2≤x1≤10; -1≤x2≤11
 
 Activity 1.1: Understanding the attached code [We will do during the lab session]
